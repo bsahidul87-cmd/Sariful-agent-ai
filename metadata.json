@@ -1,0 +1,8 @@
+{
+  "name": "Sariful AI Agent",
+  "description": "Sharif AI Tech official creator assistant featuring prompt-to-4K AI video & 8K photo generator, Google Veo 3 20s video creator, in-app photo & video editor, and 100% free domain & cloud hosting studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
